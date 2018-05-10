@@ -3,4 +3,4 @@ Project 4
 
 Group members (replace with your own names and email addresses):
 Ameya Govalkar ameya.govalkar@csu.fullerton.edu
-Moody Almukhtar 
+Moody Almukhtar moodyalmukhtar@csu.fullerton.edu
